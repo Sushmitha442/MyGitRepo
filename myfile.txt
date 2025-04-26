@@ -1,2 +1,4 @@
 "Hello, Git! how r u"
 simply changes from site
+this is offline changes...
+working with git
