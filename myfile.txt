@@ -1,4 +1,8 @@
 "Hello, Git! how r u"
 simply changes from site
+<<<<<<< HEAD
 this is offline changes...
 working with git
+=======
+"I am going to make changes in online"
+>>>>>>> 0f46bd539a116cf00f83e5658ddd7bf6a2c0d2b3
